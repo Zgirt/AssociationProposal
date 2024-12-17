@@ -166,7 +166,7 @@ The Association’s funding remains subject to approval through the CCF, ensurin
 **If it is for having contracts with T1, MM and so on, what hinders us to create a "cheap" company in specific country?**  <br>
 Switzerland offers a robust and reputable crypto regulatory framework. It shows we are serious. The Association with its flexibility only exists in Switzerland. There's a reason why many existing crypto projects choose Switzerland. We all are familiar with Crypto Valley. As mentioned in the proposal. Individuals that represent Qubic are at this point personally liable if things go wrong. It's much easier to bank when you are from a non off-shore location. Banks are opposed to nominee directors as such due to 3rd party risk and in transparency. Switzerland has an open commercial registry which can confirm the good standing of the entity which can lead to good comfort for VCs and other investors. 
 
-**Couldn't this help to decrease the risk of the members? they wouldn't even have to be named publicly ** <br>
+**Couldn't this help to decrease the risk of the members? they wouldn't even have to be named publicly?** <br>
 Yes it could de-risk but you are less credible as an entity. You run the risk that operations does not run smooth because the structure is "hidden"and uses director nominees that oversee multiple other companies . Director nominees are also not really board members and add no value besides signing papers. 
 
 **Before i even would think to vote yes to such a plan, i would want to see the articles of association (example: https://members.cryptovalley.swiss/page/our-statutes [i didn't read it, no idea if it is good or not, just the first result in a google search])** <br>
