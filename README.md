@@ -169,7 +169,7 @@ Switzerland offers a robust and reputable crypto regulatory framework. It shows 
 **Couldn't this help to decrease the risk of the members? they wouldn't even have to be named publicly **
 Yes it could de-risk but you are less credible as an entity. You run the risk that operations does not run smooth because the structure is "hidden"and uses director nominees that oversee multiple other companies . Director nominees are also not really board members and add no value besides signing papers. 
 
-**Before i even would think to vote yes to such a plan, i would want to see the articles of association (example: https://members.cryptovalley.swiss/page/our-statutes [i didn't read it, no idea if it is good or not, just the first result in a google search]) **
+**Before i even would think to vote yes to such a plan, i would want to see the articles of association (example: https://members.cryptovalley.swiss/page/our-statutes [i didn't read it, no idea if it is good or not, just the first result in a google search])**
 Yes that's coming tomorrow. Karin, our legal counsel, is drafting them as we speak. 
 
 **Double compensation e.g. QCS and board member is for me a no go; if so, better find other members which also bring other views to qubic**
