@@ -155,7 +155,7 @@ The Association may gradually add 1-2 more board members over time, ensuring a b
 - Operational infrastructure, including a Swiss domicile address.  
 
 
-<img width="661" alt="image" src="https://github.com/user-attachments/assets/2febcf74-cff6-4d46-a08b-a7d05b2685cb">
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/3059ebdb-099b-481d-8911-bca28c3095e7" />
 
 ## FAQs
 
